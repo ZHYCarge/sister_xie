@@ -1,3 +1,7 @@
+print("XYq is my sister")
 
-if __name__ == '__main__':
-    print("XYQ是智科唯一的妹妹（确信）")
+def EN():
+    print('XYq is the only sister of intelligent science and technology, Xie sister')
+
+def CN():
+    print("XYq是智能科学与技术唯一的妹妹，谢妹妹")
